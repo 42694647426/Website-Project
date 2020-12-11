@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "interweave": "^12.6.0",
+    "react-adaptive-image": "^1.8.0",
+    "react-table-6": "^6.11.0"
+  }
+}

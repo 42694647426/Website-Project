@@ -1,0 +1,5 @@
+node_modules
+.eslintcache
+Client/.eslintcache
+debug.log
+*.log
