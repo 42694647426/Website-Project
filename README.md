@@ -1,5 +1,5 @@
 # McGill Computer Science School Website Project 
-## Memebers: @42694647426 @DongMZ1 @xren935
+## Contributors: @42694647426 @DongMZ1 @xren935
 
 # The Front-End is deployed on https://42694647426.github.io/Website-Project/#/ 
 
