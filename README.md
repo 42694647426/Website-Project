@@ -1,7 +1,8 @@
 # McGill Computer Science School Website Project 
+
 **Contributors: [@42694647426](https://github.com/42694647426) [@DongMZ1](https://github.com/DongMZ1/307final) [@xren935](https://github.com/xren935)**
 
-# The Front-End is deployed to https://42694647426.github.io/Website-Project/#/ 
+**The Front-End is deployed to https://42694647426.github.io/Website-Project/#/**
 
 # Before run the repo:
 
